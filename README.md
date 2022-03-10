@@ -1,6 +1,6 @@
 <h1>REVIEWS CLASSIFIER</h1>
 
-**AIM:** This project analyses the data of reviews and classify them into Positive or Negative reviews.
+### **AIM:** This project analyses the data of reviews and classify them into Positive or Negative reviews.
 
 
 
@@ -8,7 +8,7 @@ Jump to [SUMMARY](#summary)
 
 
 
-#### DATA RESOURCE
+### DATA RESOURCE
 
 The data is available in [Reviews.tsv](https://github.com/Anusha-raju/Reviews_classifier/blob/main/Reviews.tsv)
 
@@ -20,7 +20,8 @@ Reviews consists of the all the reviews given by customers, Liked  consists of b
 
 
 
-*TECHNIQUES* : **Naive Bayes, NLP**
+
+**TECHNIQUES** : **Naive Bayes, NLP**
 
 
 
